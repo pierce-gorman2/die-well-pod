@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#1c1612" />
+  <text
+    x="50%"
+    y="54%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    fill="#f6ecdf"
+    font-family="'Cormorant Garamond', 'Times New Roman', serif"
+    font-size="34"
+    font-weight="700"
+    letter-spacing="-2"
+  >
+    DW
+  </text>
+</svg>
